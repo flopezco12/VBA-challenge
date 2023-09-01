@@ -1,0 +1,5 @@
+#So my code does manage to go through all worksheets and correctly identify increases in the stock value and color the bx green, and similairly color the box red for decreases.
+#$However for the stock volume, i noticed that the loop adds the values up, and I had trouble managing to find a way to reset the value of the variable tracking the volume of each stock
+#   in order to avoid the counter going up indefinitely
+# Second problem I ran into was figuring out how to correctly format the greatest increase / decrease / volume
+# I should have scheduled a meeting with a tutor but I couldn't find a session, and I realize it's my fault for waiting till the due to date to write my VBA code
